@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Africa mia",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 1
+    },
+    {
+        "nombre": "El cobijo",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 2
+    },
+    {
+        "nombre": "El muro de los lamentos",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 3
+    },
+    {
+        "nombre": "Obelisco",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 4
+    }
+]
